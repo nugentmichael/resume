@@ -1,0 +1,238 @@
+Michael Nugent
++1 (647) 272-7964
+nugent.michael@gmail.com
+www.michaelnugent.ca
+
+EMPLOYMENT HISTORY
+
+Virtual Gaming Worlds (VGW)
+Senior IT Service Analyst
+2023 – Present
+
+Developed new automation workflows and group rules in Okta to automatically provision and assign users to applications and groups based on their location, department, and role attributes within the organization.
+
+Responsible for sourcing and onboarding new vendors in North America and ensuring all contracts and paperwork were reviewed, approved, and signed by all levels within the organization before implementation.
+
+Conducted the planning, site survey, and network builds for the Toronto, Ontario and Boulder, Colorado offices, including assessing and incorporating providers for VoIP telephony and redundant failover dedicated fibre Internet services, installation of end-user hardware, including monitor arms, displays, docking stations, printers, and video conferencing equipment, in addition to installing patch panels, Ethernet, and fibre cabling across multiple floors.
+
+Configured Fortinet networking hardware, including creating and managing dedicated VLANs, subnets, SSIDs, and security policies across all gateways, routers, switches, firewalls, and wireless access points.
+
+Experienced in managing the Genetec Security Center SaaS platform for managing local employee access to the premises, including configuring access card readers, employee badges, and video cameras, in addition to providing monthly logs of cardholder activities to appropriate stakeholders.
+
+Developed custom Bash shell scripts to automate manual processes, including backups, restorations, migrations, software installations, and new system configurations.
+
+Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune.
+
+Reviewed submitted cover letters and résumés and conducted interviews for new candidates who joined the IT team in North America.
+
+Virtual Gaming Worlds (VGW)
+IT Service Analyst
+2022 – 2023
+
+Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Slack Enterprise, Cisco WebEx, Salesforce, Amazon Connect, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite including Confluence and Jira.
+
+Provisioned access and configured software for VGW personnel, including conducting the IT induction and onboarding sessions, in addition to providing support to stakeholders and VIP executives, including troubleshooting and resolving software and hardware issues within SLA targets while assisting in IT system administration.
+
+Ensured all systems were managed and compliant with the organization’s Endpoint Protection Policy, including enrolling and managing devices in Apple Business Manager (ABM) and AirWatch/Intune Mobile Device Management (MDM) platforms.
+
+Configured, supported, and maintained video conferencing hardware and software and installed audio and video equipment, including televisions, microphones, cameras, BGMs, and Google Meet compute systems for in-person and remote meetings, skill shares, workshops, and town halls.
+
+Responsible for placing hardware orders while ensuring all assets were recorded and maintained in the Reftab IT Asset Management database, including updating asset records when the status or assignee of the device changes, in addition to scheduling technicians for onsite warranty hardware repairs.
+
+Led the mobile carrier onboarding project for standardizing device purchases and monthly plans for users in North America, including managing billing, activating new lines, and porting existing phone numbers to the corporate account.
+
+Managed access to enterprise services in line with the Identity Access Management (IAM) policy and procedures, including onboarding and offboarding users and systems, in addition to obtaining and validating permission authorizations, while ensuring all IAM activities were recorded in Jira Service Management, including evidence of appropriate approvals where required.
+
+Produced and maintained internal documentation in the IT Services Knowledge Base and user-facing documentation in the IT Service Desk Knowledge Base in Confluence.
+
+Coinbase
+IT Engineer
+2021 - 2022
+
+Responsible for administering a variety of SaaS enterprise application platforms, including Okta, Google Workspace, Jamf Pro, Duo, Slack Grid, LastPass, Confluence, and Jira.
+
+Experienced with managing endpoints enrolled in the organization’s Mobile Device Management (MDM), including endpoint detection and response, in addition to supporting cloud applications integrated with SSO, SAML, and MFA methods, including TOTP rolling codes, push authentication requests, and YubiKey hardware security keys.
+
+Provided end-user support for macOS software and MacBook Pro hardware-related issues, including scheduling repairs with Apple Enterprise Support and supporting Chromebook devices with Chrome OS.
+
+Supported and managed iOS and Android mobile devices, including procuring testing hardware for application development.
+
+Created detailed documentation for supporting new applications and IT procedures while refining existing processes to increase efficiency.
+
+Supported the product and operations teams and other stakeholders on technical matters.
+
+TD Bank
+IT Business Systems Analyst II
+2019 – 2021
+
+Responsible for managing and issuing origin enterprise Extended Validation SSL certificates using the Venafi PKI certificate and key management platform for new and existing microsites and applications.
+
+Assisted with managing DNS zone file resource records for domain names hosted on the internal name servers, in addition to the external F5 BIG-IP GTM and domain registrar based on requests.
+
+Communicated with third-party external vendors for deploying and renewing SSL certificates, in addition to transferring domain names between registrars.
+
+Experienced working with ServiceNow, Jira, and Gemini for creating and managing ITSM ticket submissions.
+
+Supported the Akamai to Verizon CDN and edge DNS migration projects for moving all production-level websites, applications, and services.
+
+Assisted with the DMARC policy implementation project for preventing email spoofing.
+
+Supported the DigiCert to Entrust certificate authority migration project for replacing all website and application SSL certificates hosted by third-party external vendors.
+
+Developed process documentation and flowcharts in Confluence, including various PowerPoint presentations for project teams, and designed disaster recovery diagrams for large network implementations and migrations.
+
+Measured website, CDN, and DNS performance metrics with trending analytic data using pivot tables and charts in Microsoft Excel for the SEO and WCM teams.
+
+Co-facilitated training sessions for the Publishing, BTRM, and Branding teams.
+
+Contributed to the semi-annual domain portfolio reviews, including assessing potential risk areas while providing future recommendations.
+
+Actively secured malicious and infringing websites, assets, and domain names for trademark and brand protection, including processing UDRP submissions for domain takedowns and transfers.
+
+Artifakt Digital
+IT Administrator and Web Developer
+2017 – 2019
+
+Responsible for managing two dedicated cloud server environments for hosting over 100 live client websites, including deploying lower environments for development and testing, in addition to creating and managing Git repositories through Bitbucket.
+
+Launched websites, including migrating MySQL databases and website files, in addition to deploying and migrating client email user accounts and mailboxes to Google’s G Suite platform.
+
+Deployed CDN, DDoS protection, edge SSL certificates, and caching policies on Cloudflare, including installing origin SSL certificates from Let’s Encrypt and other certificate authorities, in addition to configuring and managing DNS zone files, including transferring domain names between registrars.
+
+Responsible for resolving technical support incidents, including onboarding and offboarding staff at Toronto, Ottawa, and US office locations, in addition to requests and issues reported by external clients through ticket submissions within Zendesk, and communicating with third-party vendors for upgrades and fixes.
+
+Supported Mac OS X, Windows 10 desktop and laptop computers, and software applications, including Adobe Creative Cloud, Sketch, and Microsoft Office.
+
+Managed software licenses, user accounts, and permissions across cloud SaaS applications, including G Suite, Office 365, Dropbox, Zendesk, TeamPassword, and Slack.
+
+Developed custom WordPress themes using Vagrant, PHPCS, Webpack, Bootstrap 3 and 4, PHP, CSS, SCSS, JavaScript, and jQuery, including creating custom post types, taxonomies, meta fields, and shortcodes with Git version control.
+
+Experienced developing with Advanced Custom Fields, incorporating typefaces from Adobe and Google Fonts including icon toolkits from Font Awesome, utilizing Gravity Forms for managing form submissions, interacting with the WP REST API, creating custom Gutenberg blocks with React JS, in addition to building personalized maps with custom polygons, markers, styling, and info windows using the Google Maps API.
+
+Colleges and Institutes Canada
+Web Developer
+2015 – 2017
+
+Assisted with managing the organization’s main bilingual WordPress website with WPML, including redeveloping the homepage, performing maintenance and updates to their Core platform and third-party plugins, in addition to reporting visitor metrics using Google Analytics.
+
+Created custom post types, taxonomies, and meta fields, utilized Advanced Custom Fields to organize content, member profiles, and staffing updates, managed event submissions with The Events Calendar, downloadable resources with WPDM, and form submissions with Gravity Forms.
+
+Responsible for the lead web development of their Annual Report, Canada’s 150th celebration, CIIP, and STEM international partnership program WordPress websites using Bootstrap 3, Grunt, PHP, SCSS, JavaScript, and jQuery with SVN version control, in addition to aiding in the development of their annual conference website.
+
+Managed their Employment Opportunity and CleanTech WordPress websites while building additional functionality, fixes, and updates based on requests, in addition to assisting with the development and testing of the registration form and custom MVC database platform with CakePHP, JavaScript, and SQL for their Canadian Immigrant Integration Program.
+
+Supported managing their email newsletters, mailing lists, and custom template development in MailChimp.
+
+Edited video footage in Premiere Pro for highlighting student success stories from the Applied Research Symposium and interviews with partners who had worked directly with their Canadian Immigrant Integration Program.
+
+Created graphic and printable assets, including hero banner images displayed on the homepage, to help promote new additions to their corporate website using Photoshop.
+
+Responsible for planning and migrating multiple web servers from CentOS to Debian Linux, configuring access control lists (ACLs), Apache with virtual hosts, origin SSL certificates, and MySQL databases.
+
+Self-Employed
+Multimedia Developer
+2014 – 2017
+
+Worked directly with clients on a series of projects using HTML, CSS, JavaScript, jQuery, PHP, and Liquid Engine, in addition to PayPal and Stripe payment processor integrations across WordPress, Drupal, and Shopify websites and e-commerce stores based on requests.
+
+Designed and developed various pages for user tutorials, future product launches, press releases, campaigns, and featured news updates.
+
+Configured WooCommerce to utilize coupon codes, including a dynamic method to convert product prices to the customer’s country currency during the shopping and checkout stages, in addition to developing custom modals for age verification and integrating a multi-level affiliate marketing program for users and affiliates to earn a commission based on referrals and purchases.
+
+Reviewed and modified client Search Engine Optimization (SEO) configurations while analyzing and reporting monthly visitor metrics using Google Analytics.
+
+Designed product promotional material, video slates, digital advertisements, banners for social media channels, and branding logos using Photoshop and Illustrator.
+
+Photographed product images for landing pages, in addition to designing and assembling a cookbook using InDesign.
+
+Designed and developed custom email newsletter templates, including managing campaigns and mailing list subscribers in MailChimp and AWeber.
+
+Handled post-production video editing using Premiere Pro while managing client video libraries on YouTube and Vimeo.
+
+G24 Hockey
+Designer and Web Developer
+2013 – 2015
+
+Designed and developed a responsive HTML5 web application using CSS and Yii PHP framework with SVN version control, an iOS and Android mobile application using Sketch, PhoneGap, and Ionic Framework, and a product landing site with Bootstrap 2.
+
+Created custom email newsletters, including marketing and graphic assets for both their landing site and web application, in addition to product advertisements using Photoshop and Illustrator.
+
+Planned, produced, and edited audio and video with Audition, Premiere Pro, and After Effects for their online tutorials and promotional campaign.
+
+OPIN Software
+QA Analyst (Internship)
+2014
+
+Responsible for performing quality assurance testing on developing Drupal website products for the Government of Canada to help isolate and solve issues while ensuring client requirements were met.
+
+The Smiths Falls Railway Museum
+Front-End Web Developer (Project)
+2014
+
+Developed a custom Shopify eCommerce theme template and online store using Liquid Engine, HTML, and CSS to help promote and sell merchandise offered inside the museum's gift shop.
+
+Bank of America
+End-User Support
+2011 – 2012
+
+Assisted with imaging, configuring, and deploying over 1600 new desktop and laptop units to end-users.
+
+Created, managed, and responded to support tickets within the IBM Maximo queue and escalated any outages and incidents that could not be resolved locally through the Help Desk.
+
+Supported end-users at both campus buildings with in-house software and hardware-related issues.
+
+Managed Tivoli software package distributions to end-user workstations.
+
+Best Buy Canada Corporate
+End-User Technology Support
+2010 – 2011
+
+Responded to assigned tickets within Remedy to resolve any end-user issues and requests locally at both campus buildings, including working with various teams nationwide to resolve any major issues while assisting impacted users over the phone and by remote desktop software.
+
+Imaged desktop and laptop units for end-users, including Best Buy and Future Shop retail store kiosks for various assigned projects.
+
+Maintained systems connected to the Canadian domain within Active Directory, including supporting iPhone, iPad, and BlackBerry mobile devices.
+
+Set up and onboard new hires with the appropriate computer equipment and software required for their role.
+
+Lockheed Martin
+Desktop Support Specialist
+2009 – 2010
+
+Managed user accounts and systems connected to the domain within Active Directory, including monitoring all endpoints using SMS, WSUS, SCCM, and McAfee ePO while patching all localized vulnerable systems from the weekly Foundstone scans.
+
+Responded to end-user requests and issues through Remedy ticket submissions, including onboarding new hires with the appropriate hardware, software, and access required for their role.
+
+Responsible for obtaining quotes from various vendors to procure new computer equipment during refresh cycles and scheduling technicians for onsite repairs.
+
+Maintained and administered the PBX and Voicemail servers while assisting with the ongoing implementation of the Cisco VoIP system.
+
+Created and designed the desktop image to ghost onto new systems connected to the domain across all Canadian offices.
+
+Assisted with testing, planning, and deploying the Microsoft Office 2007 suite upgrade throughout the company.
+
+Responsible for setting up video teleconference meetings over IP and dedicated ISDN lines.
+
+Maintained, upgraded, and monitored all network printers connected to the domain and replaced parts when needed.
+
+SOFTWARE
+
+Knowledgeable and experienced working with Adobe’s Creative Cloud suite of applications including Acrobat, After Effects, Audition, Director, Dreamweaver, Fireworks, Flash, Illustrator, InDesign, Photoshop, Lightroom, and Premiere Pro, in addition to Sketch, Figma, Final Cut Pro X, Logic Pro X, and Microsoft Office.
+
+LANGUAGES
+
+HTML, CSS, LESS, Sass, SCSS, JavaScript, jQuery, JSX, PHP, ActionScript, Lingo, and Shopify’s Liquid Engine.
+
+EDUCATION
+
+Algonquin College of Applied Arts and Technology
+Interactive Multimedia Developer, Diploma
+2012 – 2014
+
+Algonquin College of Applied Arts and Technology
+Computer Systems Technology, Advanced Diploma
+2008 – 2009
+
+Algonquin College of Applied Arts and Technology
+Computer Systems Technician, Diploma
+2006 – 2008
