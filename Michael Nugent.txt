@@ -21,9 +21,9 @@ Experienced in managing the Genetec Security Center SaaS platform for managing l
 
 Developed custom Bash shell scripts to automate manual processes, including backups, restorations, migrations, software installations, and new system configurations.
 
-Responsible for managing the NinjaOne RMM (Remote Monitoring and Management) platform within the organziation, including creating policies for managing client endpoints, monitoring systems, patch management, remote Terminal access, and onboarding scripts and appications for automating software installations and troubleshooting issues.
+Responsible for managing the NinjaOne Remote Monitoring and Management (RMM) platform within the organization for system monitoring, patch management, remote Terminal access, onboarding scripts and applications for automating software installations and troubleshooting issues, in addition to creating standardized policies for managing client endpoints.
 
-Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune.
+Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune. 
 
 Reviewed submitted cover letters and résumés and conducted interviews for new candidates who joined the IT team in North America.
 
