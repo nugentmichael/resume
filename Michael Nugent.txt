@@ -9,6 +9,22 @@ Virtual Gaming Worlds (VGW)
 Senior IT Service Analyst
 2023 – Present
 
+Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Slack Enterprise, Cisco WebEx, Salesforce, Amazon Connect, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite, including Confluence and Jira.
+
+Provisioned access and configured software for VGW personnel, including conducting the IT induction and onboarding sessions, in addition to providing support to stakeholders and VIP executives, including troubleshooting and resolving software and hardware issues within SLA targets while assisting in IT system administration.
+
+Ensured all systems were managed and compliant with the organization’s Endpoint Protection Policy, including enrolling and managing devices in Apple Business Manager (ABM) and AirWatch/Intune Mobile Device Management (MDM) platforms.
+
+Configured, supported, and maintained video conferencing hardware and software and installed audio and video equipment, including televisions, microphones, cameras, BGMs, and Google Meet compute systems for in-person and remote meetings, skill shares, workshops, and town halls.
+
+Responsible for placing hardware orders while ensuring all assets were recorded and maintained in the Reftab IT Asset Management database, including updating asset records when the status or assignee of the device changes, in addition to scheduling technicians for on-site warranty hardware repairs.
+
+Led the mobile carrier onboarding project for standardizing device purchases and monthly plans for users in North America, including managing billing, activating new lines, and porting existing phone numbers to the corporate account.
+
+Managed access to enterprise services in line with the Identity Access Management (IAM) policy and procedures, including onboarding and offboarding users and systems, in addition to obtaining and validating permission authorizations, while ensuring all IAM activities were recorded in Jira Service Management, including evidence of appropriate approvals where required.
+
+Produced and maintained internal documentation in the IT Services Knowledge Base and user-facing documentation in the IT Service Desk Knowledge Base in Confluence.
+
 Developed new automation workflows and group rules in Okta to automatically provision and assign users to applications and groups based on their location, department, and role attributes within the organization.
 
 Responsible for sourcing and onboarding new vendors in North America and ensuring all contracts and paperwork were reviewed, approved, and signed by all levels within the organization before implementation.
@@ -23,29 +39,9 @@ Developed custom Bash shell scripts to automate manual processes, including back
 
 Responsible for managing the NinjaOne Remote Monitoring and Management (RMM) platform within the organization for system monitoring, patch management, remote Terminal access, onboarding scripts and applications for automating software installations and troubleshooting issues, in addition to creating standardized policies for managing client endpoints.
 
-Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune. 
+Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune.
 
 Reviewed submitted cover letters and résumés and conducted interviews for new candidates who joined the IT team in North America.
-
-Virtual Gaming Worlds (VGW)
-IT Service Analyst
-2022 – 2023
-
-Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Slack Enterprise, Cisco WebEx, Salesforce, Amazon Connect, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite including Confluence and Jira.
-
-Provisioned access and configured software for VGW personnel, including conducting the IT induction and onboarding sessions, in addition to providing support to stakeholders and VIP executives, including troubleshooting and resolving software and hardware issues within SLA targets while assisting in IT system administration.
-
-Ensured all systems were managed and compliant with the organization’s Endpoint Protection Policy, including enrolling and managing devices in Apple Business Manager (ABM) and AirWatch/Intune Mobile Device Management (MDM) platforms.
-
-Configured, supported, and maintained video conferencing hardware and software and installed audio and video equipment, including televisions, microphones, cameras, BGMs, and Google Meet compute systems for in-person and remote meetings, skill shares, workshops, and town halls.
-
-Responsible for placing hardware orders while ensuring all assets were recorded and maintained in the Reftab IT Asset Management database, including updating asset records when the status or assignee of the device changes, in addition to scheduling technicians for onsite warranty hardware repairs.
-
-Led the mobile carrier onboarding project for standardizing device purchases and monthly plans for users in North America, including managing billing, activating new lines, and porting existing phone numbers to the corporate account.
-
-Managed access to enterprise services in line with the Identity Access Management (IAM) policy and procedures, including onboarding and offboarding users and systems, in addition to obtaining and validating permission authorizations, while ensuring all IAM activities were recorded in Jira Service Management, including evidence of appropriate approvals where required.
-
-Produced and maintained internal documentation in the IT Services Knowledge Base and user-facing documentation in the IT Service Desk Knowledge Base in Confluence.
 
 Coinbase
 IT Engineer
