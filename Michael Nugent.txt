@@ -9,7 +9,7 @@ Virtual Gaming Worlds (VGW)
 Senior IT Service Analyst
 2023 – Present
 
-Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Slack Enterprise, Cisco WebEx, Salesforce, Amazon Connect, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite, including Confluence and Jira.
+Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Omnissa Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Slack Enterprise, Cisco WebEx, Salesforce, Amazon Connect, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite, including Confluence and Jira.
 
 Provisioned access and configured software for VGW personnel, including conducting the IT induction and onboarding sessions, in addition to providing support to stakeholders and VIP executives, including troubleshooting and resolving software and hardware issues within SLA targets while assisting in IT system administration.
 
@@ -39,7 +39,7 @@ Developed custom Bash shell scripts to automate manual processes, including back
 
 Responsible for managing the NinjaOne Remote Monitoring and Management (RMM) platform within the organization for system monitoring, patch management, remote Terminal access, onboarding scripts and applications for automating software installations and troubleshooting issues, in addition to creating standardized policies for managing client endpoints.
 
-Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune.
+Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune, including configuring applications to be installed during the out-of-box experience (OOBE) enrollment process, managing device and user groups, in addition to defining and creating compliance policies.
 
 Reviewed submitted cover letters and résumés and conducted interviews for new candidates who joined the IT team in North America.
 
