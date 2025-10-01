@@ -31,7 +31,7 @@ Responsible for sourcing and onboarding new vendors in North America and ensurin
 
 Conducted the planning, site survey, and network builds for the Toronto, Ontario and Boulder, Colorado offices, including assessing and incorporating providers for VoIP telephony and redundant failover dedicated fibre Internet services, installation of end-user hardware, including monitor arms, displays, docking stations, printers, and video conferencing equipment, in addition to installing patch panels, Ethernet, and fibre cabling across multiple floors.
 
-Configured Fortinet networking hardware, including creating and managing dedicated VLANs, subnets, SSIDs, and security policies across all gateways, routers, switches, firewalls, and wireless access points.
+Assisted with configuring Fortinet networking hardware, including creating and managing dedicated VLANs, subnets, SSIDs, and security policies across all gateways, routers, switches, firewalls, and wireless access points.
 
 Experienced in managing the Genetec Security Center SaaS platform for managing local employee access to the premises, including configuring access card readers, employee badges, and video cameras, in addition to providing monthly logs of cardholder activities to appropriate stakeholders.
 
@@ -39,7 +39,7 @@ Developed custom Bash shell scripts to automate manual processes, including back
 
 Responsible for managing the NinjaOne Remote Monitoring and Management (RMM) platform within the organization for system monitoring, patch management, remote Terminal access, onboarding scripts and applications for automating software installations and troubleshooting issues, in addition to creating standardized policies for managing client endpoints.
 
-Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune, including configuring applications to be installed during the out-of-box experience (OOBE) enrollment process, managing device and user groups, in addition to defining and creating compliance policies.
+Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune, including configuring applications to be installed during the out-of-box experience (OOBE) enrollment process, managing device and user groups, creating and updating line-of-business (LOB) applications and custom Bash shell scripts, in addition to creating and defining compliance policies and device configurations.
 
 Reviewed submitted cover letters and résumés and conducted interviews for new candidates who joined the IT team in North America.
 
