@@ -9,7 +9,7 @@ Virtual Gaming Worlds (VGW)
 Senior IT Service Analyst
 2023 – Present
 
-Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Omnissa Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Slack Enterprise, Cisco WebEx, Salesforce, Amazon Connect, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite, including Confluence and Jira.
+Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Omnissa Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Netskope, Slack Enterprise, Cisco WebEx, Salesforce, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite, including Confluence and Jira.
 
 Provisioned access and configured software for VGW personnel, including conducting the IT induction and onboarding sessions, in addition to providing support to stakeholders and VIP executives, including troubleshooting and resolving software and hardware issues within SLA targets, while assisting in IT system administration.
 
