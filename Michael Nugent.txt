@@ -151,7 +151,7 @@ G24 Hockey
 Designer and Web Developer
 2013 – 2015
 
-Designed and developed a responsive HTML5 web application using CSS and Yii PHP framework with SVN version control, an iOS and Android mobile application using Sketch, PhoneGap, and Ionic Framework, and a product landing site with Bootstrap 2.
+Designed and developed a responsive HTML5 web application using CSS and the Yii PHP framework with SVN version control, an iOS and Android mobile application using Sketch, PhoneGap, and Ionic Framework, and a product landing site with Bootstrap 2.
 
 Created custom email newsletters, including marketing and graphic assets for both their landing site and web application, in addition to product advertisements using Photoshop and Illustrator.
 
