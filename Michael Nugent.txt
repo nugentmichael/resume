@@ -7,7 +7,7 @@ EMPLOYMENT HISTORY
 
 Virtual Gaming Worlds (VGW)
 Senior IT Service Analyst
-2023 – Present
+2022 – Present
 
 Supported and managed a variety of SaaS platforms, including Okta, Google Workspace, Microsoft Office 365, VMware AirWatch/Omnissa Workspace ONE, Microsoft Intune, NinjaOne, SentinelOne, Kolide, Proofpoint, Netskope, Slack Enterprise+, Cisco WebEx, Salesforce, Zendesk, Amazon Web Services (AWS), GitHub Enterprise Cloud, and 1Password, in addition to the Atlassian Cloud suite, including Confluence and Jira.
 
@@ -65,11 +65,11 @@ IT Business Systems Analyst II
 
 Responsible for managing and issuing origin enterprise Extended Validation SSL certificates using the Venafi PKI certificate and key management platform for new and existing microsites and applications.
 
-Assisted with managing DNS zone file resource records for domain names hosted on the internal name servers, in addition to the external F5 BIG-IP GTM and domain registrar based on requests.
+Assisted with managing DNS zone file resource records for domain names hosted on the internal name servers, in addition to the external F5 BIG-IP GTM and domain registrar, based on requests.
 
 Communicated with third-party external vendors for deploying and renewing SSL certificates, in addition to transferring domain names between registrars.
 
-Experienced working with ServiceNow, Jira, and Gemini for creating and managing ITSM ticket submissions.
+Experienced in working with ServiceNow, Jira, and Gemini for creating and managing ITSM ticket submissions.
 
 Supported the Akamai to Verizon CDN and edge DNS migration projects for moving all production-level websites, applications, and services.
 
