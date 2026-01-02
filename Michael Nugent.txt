@@ -201,7 +201,7 @@ Managed user accounts and systems connected to the domain within Active Director
 
 Responded to end-user requests and issues through Remedy ticket submissions, including onboarding new hires with the appropriate hardware, software, and access required for their role.
 
-Responsible for obtaining quotes from various vendors to procure new computer equipment during refresh cycles and scheduling technicians for onsite repairs.
+Responsible for obtaining quotes from various vendors to procure new computer equipment during refresh cycles and scheduling technicians for on-site repairs.
 
 Maintained and administered the PBX and Voicemail servers while assisting with the ongoing implementation of the Cisco VoIP system.
 
