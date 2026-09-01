@@ -105,7 +105,7 @@ Managed software licenses, user accounts, and permissions across cloud SaaS appl
 
 Developed custom WordPress themes using Vagrant, PHPCS, Webpack, Bootstrap 3 and 4, PHP, CSS, SCSS, JavaScript, and jQuery, including creating custom post types, taxonomies, meta fields, and shortcodes with Git version control.
 
-Experienced developing with Advanced Custom Fields, incorporating typefaces from Adobe and Google Fonts including icon toolkits from Font Awesome, utilizing Gravity Forms for managing form submissions, interacting with the WP REST API, creating custom Gutenberg blocks with React JS, in addition to building personalized maps with custom polygons, markers, styling, and info windows using the Google Maps API.
+Experienced developing with Advanced Custom Fields, incorporating typefaces from Adobe and Google Fonts, including icon toolkits from Font Awesome, utilizing Gravity Forms for managing form submissions, interacting with the WP REST API, creating custom Gutenberg blocks with React JS, in addition to building personalized maps with custom polygons, markers, styling, and info windows using the Google Maps API.
 
 Colleges and Institutes Canada
 Web Developer
@@ -215,7 +215,7 @@ Maintained, upgraded, and monitored all network printers connected to the domain
 
 SOFTWARE
 
-Knowledgeable and experienced working with Adobe’s Creative Cloud suite of applications including Acrobat, After Effects, Audition, Director, Dreamweaver, Fireworks, Flash, Illustrator, InDesign, Photoshop, Lightroom, and Premiere Pro, in addition to Sketch, Figma, Final Cut Pro X, Logic Pro X, and Microsoft Office.
+Knowledgeable and experienced working with Adobe’s Creative Cloud suite of applications, including Acrobat, After Effects, Audition, Director, Dreamweaver, Fireworks, Flash, Illustrator, InDesign, Photoshop, Lightroom, and Premiere Pro, in addition to Sketch, Figma, Final Cut Pro X, Logic Pro X, and Microsoft Office.
 
 LANGUAGES
 
