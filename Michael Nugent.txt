@@ -25,7 +25,7 @@ Managed access to enterprise services in line with the Identity Access Managemen
 
 Produced and maintained internal documentation in the IT Services Knowledge Base and user-facing documentation in the IT Service Desk Knowledge Base in Confluence.
 
-Developed new automation workflows and group rules in Okta to automatically provision and assign users to applications and groups based on their location, department, and role attributes within the organization.
+Created and managed RBAC automated group rulesets and workflows using Terraform and Okta to automatically provision and assign users to applications and groups based on their location, department, and role attributes provided by the organization's HRIS platform.
 
 Responsible for sourcing and onboarding new vendors in North America and ensuring all contracts and paperwork were reviewed, approved, and signed by all levels within the organization before implementation.
 
