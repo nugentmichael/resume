@@ -13,11 +13,11 @@ Supported and managed a variety of SaaS platforms, including Okta, Google Worksp
 
 Provisioned access and configured software for VGW personnel, including conducting IT induction and onboarding sessions, supported stakeholders and VIP executives by troubleshooting and resolving software and hardware issues within SLA targets, and assisted with IT system administration.
 
-Ensured all systems were managed and compliant with the organization’s Endpoint Protection Policy, including enrolling and managing devices in Apple Business Manager (ABM) and AirWatch/Intune Mobile Device Management (MDM) platforms.
+Managed and ensured all systems complied with the organization’s Endpoint Protection Policy, including enrolling and managing devices in Apple Business Manager (ABM) and AirWatch/Intune Mobile Device Management (MDM) platforms.
 
 Configured, supported, and maintained video conferencing hardware and software and installed audio and video equipment, including televisions, microphones, cameras, BGMs, and Google Meet compute systems for in-person and remote meetings, skill shares, workshops, and town halls.
 
-Responsible for placing hardware orders while ensuring all assets were recorded and maintained in the Reftab IT Asset Management database, including updating asset records when the status or assignee of the device changes, in addition to scheduling technicians for on-site warranty hardware repairs.
+Placed hardware orders and ensured all assets were recorded and maintained in the Reftab IT Asset Management database, including updating asset records when a device's status or assignee changed, and scheduled technicians for on-site warranty hardware repairs.
 
 Led the mobile carrier onboarding project for standardizing device purchases and monthly plans for users in North America, including managing billing, activating new lines, and porting existing phone numbers to the corporate account.
 
@@ -39,9 +39,7 @@ Developed custom Bash shell scripts to automate manual processes, including back
 
 Responsible for managing the NinjaOne Remote Monitoring and Management (RMM) platform within the organization for system monitoring, patch management, remote Terminal access, onboarding scripts and applications for automating software installations and troubleshooting issues, in addition to creating standardized policies for managing client endpoints.
 
-Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune, including configuring applications to be installed during the out-of-box experience (OOBE) enrollment process, managing device and user groups, creating and updating line-of-business applications and custom Bash shell scripts, in addition to creating and defining compliance policies and device configurations.
-
-Reviewed submitted cover letters and résumés and interviewed new candidates who joined the IT team in North America.
+Assisted with configuring and migrating Mobile Device Management (MDM) solutions and end-user devices in North America from AirWatch to Intune, including configuring applications to be installed during the out-of-the-box experience (OOBE) enrollment process, managing device and user groups, creating and updating line-of-business applications and custom Bash shell scripts, in addition to creating and defining compliance policies and device configurations.
 
 Coinbase
 IT Engineer
